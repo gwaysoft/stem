@@ -1,3 +1,0 @@
-# STEM
-econtributor
-ddd
