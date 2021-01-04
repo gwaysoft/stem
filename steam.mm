@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1572329495688" ID="ID_1794764025" MODIFIED="1573025866617" TEXT="swift">
+<node CREATED="1572329495688" ID="ID_1794764025" MODIFIED="1573026167776" TEXT="steam">
 <node CREATED="1572329683831" ID="ID_1640129690" MODIFIED="1573025859257" POSITION="left" TEXT="office website">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -14,8 +14,7 @@
       <a href="https://www.apple.com/everyone-can-code/">https://www.apple.com/everyone-can-code/</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572329700983" ID="ID_1425348020" MODIFIED="1572329780277" TEXT="overview">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -63,8 +62,7 @@
       younger (participants approximately under ages 11): Minecraft: Education Edition, Hopscotch, Tynker, and codeSpark Academy
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1572339558595" ID="ID_1614563583" MODIFIED="1572852342216" TEXT="Get Started with Code Curriculum Guide">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -107,7 +105,39 @@
   </body>
 </html></richcontent>
 <node CREATED="1572855139052" ID="ID_531566136" MODIFIED="1572855145526" TEXT="Course Outlines"/>
-<node CREATED="1572940934442" ID="ID_1034527218" MODIFIED="1572940947296" TEXT="Lesson 0 Getting Started"/>
+<node CREATED="1572940934442" ID="ID_1034527218" MODIFIED="1573120031898" TEXT="Lesson 0 Getting Started">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Coding is tell a computer what to do
+    </p>
+    <p>
+      Developers write code to build their own apps and games
+    </p>
+    <p>
+      Activity: set up the working wall: show the concepts (e.g. coding, developer), using apps or games
+    </p>
+    <p>
+      Practice: recommend codeSpark academy, tynker (visual-based coding apps)
+    </p>
+    <p>
+      CodeSpark: explain each chapter, help different foos, introduce Game Maker chapters
+    </p>
+    <p>
+      Tynker: read Tynker's Quick-Start Teacher Guide, using Space Cadet
+    </p>
+    <p>
+      Journal recommend Seesaw
+    </p>
+    <p>
+      Optional app design activity: ideas -&gt; design -&gt; research -&gt; coding -&gt; share
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1572941003416" ID="ID_1859663949" MODIFIED="1572941038016" TEXT="Lesson 1 You Can Order It: Introducation to Sequencing"/>
 <node CREATED="1572941098928" ID="ID_659355394" MODIFIED="1572941239955" TEXT="Lesson 2 You Can Step It: Creating Sequences">
 <richcontent TYPE="NOTE"><html>
@@ -343,6 +373,60 @@
   </body>
 </html></richcontent>
 </node>
+<node CREATED="1573026260006" ID="ID_1781013354" MODIFIED="1573026415693" TEXT="Lesson 7 Think in Specifics: Conditional Statements">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      In Tynker, Students use if statements to handle decision and alternatives within puzzles
+    </p>
+    <p>
+      Students brainstorm innovative ways to make their apps unique
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1573026455572" ID="ID_666009503" MODIFIED="1573026767936" TEXT="Lesson 8 Think in Cycles: While Loops and Nested Loops">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Students form app design teams and start to prototype an apo of their own
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1573033190756" ID="ID_497226562" MODIFIED="1573033374762" TEXT="Lesson 9 Think In and Outside the Box: Variables, Input and Output">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Students conduct user interviews to help them target an audience for their app
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1573033377812" ID="ID_1396562898" MODIFIED="1573033505100" TEXT="Lesson 10 Think in Practice: Design UI">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Students learn about user interface and user experience and create a mood board for their app design
+    </p>
+    <p>
+      They create an app pitch in the milestone project
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1572655625223" ID="ID_1738205621" MODIFIED="1572655654321" TEXT="materials">
@@ -410,7 +494,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572659910322" ID="ID_1517316229" MODIFIED="1572851623949" TEXT="professional development">
+<node CREATED="1572659910322" FOLDED="true" ID="ID_1517316229" MODIFIED="1573028156948" TEXT="professional development">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -474,7 +558,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572677117013" ID="ID_28457086" MODIFIED="1572943763625" TEXT="lessons">
+<node CREATED="1572677117013" ID="ID_28457086" MODIFIED="1573028211649" TEXT="lessons">
+<node CREATED="1573028194386" ID="ID_881898955" MODIFIED="1573028230453" TEXT="teacher guide">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -485,6 +570,7 @@
     </p>
   </body>
 </html></richcontent>
+</node>
 <node CREATED="1572677122574" ID="ID_1305040030" MODIFIED="1572944499728" TEXT="Puzzles">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -829,7 +915,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1572329579329" ID="ID_459988178" MODIFIED="1572337173685" POSITION="left" TEXT="swift playgrounds">
+<node CREATED="1572329579329" ID="ID_459988178" MODIFIED="1573026203105" POSITION="left" TEXT="swift playgrounds">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -870,6 +956,91 @@
 </node>
 <node CREATED="1572337888675" ID="ID_239629854" MODIFIED="1572337893776" TEXT="learn to code 2"/>
 <node CREATED="1572337895577" ID="ID_208383898" MODIFIED="1572337903175" TEXT="learn to code 3"/>
+</node>
+</node>
+<node CREATED="1573547829831" ID="ID_1264798778" MODIFIED="1573547842789" POSITION="right" TEXT="Code of Hour">
+<node CREATED="1573547860496" ID="ID_458378933" MODIFIED="1573548341745" TEXT="account">
+<node CREATED="1573548331536" ID="ID_481127568" MODIFIED="1574335728093" TEXT="teacher">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      teacher account
+    </p>
+    <p>
+      &#160;&#160;website: www.code.org
+    </p>
+    <p>
+      &#160;&#160;teacher's account (web): gwaysoft@outlook.com | 8**4**M***
+    </p>
+    <p>
+      &#160;&#160;set students' accounts
+    </p>
+    <p>
+      students login and learn lessons
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1573548335568" ID="ID_1193968075" MODIFIED="1573548613727" TEXT="student">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Student account from teacher's setting
+    </p>
+    <p>
+      ask your students to join your section by going to [https://studio.code.org/join] and entering the section code
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1573547866152" ID="ID_892177447" MODIFIED="1573547893047" TEXT="course">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://studio.code.org/courses">https://studio.code.org/courses</a>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1573548302696" ID="ID_633336050" MODIFIED="1573548307484" TEXT="teacher">
+<node CREATED="1573547894472" ID="ID_812642997" MODIFIED="1573547904191" TEXT="professional learning">
+<node CREATED="1573547914296" ID="ID_1430780357" MODIFIED="1573547946425" TEXT="Not in the USA">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://support.code.org/hc/en-us/articles/115003865532-I-teach-outside-of-the-US-Are-there-resources-to-help-me-teach-computer-science-">https://support.code.org/hc/en-us/articles/115003865532-I-teach-outside-of-the-US-Are-there-resources-to-help-me-teach-computer-science-</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1573548209860" ID="ID_1167878583" MODIFIED="1573548299408" TEXT="Teaching computer science fundamentals">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://studio.code.org/s/K5-OnlinePD?section_id=2481381
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1573548319071" ID="ID_642334818" MODIFIED="1573548322556" TEXT="student"/>
 </node>
 </node>
 </node>
